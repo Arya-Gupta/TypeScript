@@ -12,9 +12,9 @@ TypeScript is an open source language and is a superset of JavaScript
 ## Dynamic vs Static Typing
 
 In dynamically typed languages, the types are associated with run-time values and not named explicitly in your code
-In statically typed languages, you explicitly assign types to variables, function parameters, return values, etc
-Static examples - Java, C, C++, Rust, Go
-Dynamic examples - JavaScript, Python, Ruby, PHP
+In statically typed languages, you explicitly assign types to variables, function parameters, return values, etc <br/>
+Static examples - Java, C, C++, Rust, Go <br/>
+Dynamic examples - JavaScript, Python, Ruby, PHP <br/>
 
 ## Pros and Cons
 
