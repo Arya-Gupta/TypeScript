@@ -1,4 +1,4 @@
-## About TypeScript
+## About <a href="https://www.typescriptlang.org/docs/">TypeScript</a>
 
 TypeScript is an open source language and is a superset of JavaScript
 
